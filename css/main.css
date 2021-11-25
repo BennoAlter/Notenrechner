@@ -1,0 +1,21 @@
+h1 {
+    color: cornflowerblue;
+    text-align: center;
+    font-size: xx-large;
+}
+p {
+    text-align: center;
+    font-size: larger;
+}
+div {
+    text-align: center;
+    padding: 40px;
+}
+img {
+    display: block;
+    margin: auto;
+    width: auto;
+}
+button {
+    padding: 40px;
+}
